@@ -1,0 +1,3 @@
+ Olá, organizei as pastas como descrito no exemplo, gostei desse formato pois consegui localizar facilmente os arquivos brutos.
+ Também renomeei as arquivos para saber especificadamente oque cada um mostra assim como o áudio.
+ Com tudo isso pronto refiz o mesmo no Project Panel do Premiere, assim tenho um fluxo bom e de fácil acesso  na hora da edição.
